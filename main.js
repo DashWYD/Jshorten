@@ -1,0 +1,2 @@
+var log = (input) => console.log(input)
+module.exports = log

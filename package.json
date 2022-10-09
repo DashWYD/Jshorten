@@ -1,0 +1,19 @@
+{
+  "name": "javashorten",
+  "version": "1.0.4",
+  "description": "A easier way to write code",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DashWYD/Jshorten.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DashWYD/Jshorten/issues"
+  },
+  "homepage": "https://github.com/DashWYD/Jshorten#readme"
+}

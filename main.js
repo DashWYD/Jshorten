@@ -1,2 +1,2 @@
-8kvar print = (input) => console.log(input)
+var print = (input) => console.log(input)
 module.exports = print
